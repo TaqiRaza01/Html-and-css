@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(184, 228, 129);
+   
+}
+
+
+
+/* Image div 1 */
+
+
+#div1{
+    width: 40%;
+
+    float: left;
+}
+
+/* IMAGE my pic */
+
+#mypic{
+    border: 2px solid grey;
+    margin-top: 213px;
+    margin-left: 183px;
+}
+
+
+/* About Me div 2 */
+#div2{
+    width: 60%;
+   float: right;
+}
+
+
+/* ABOUT ME (text) */
+#aboutme{
+    width: 72%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 79px;
+    text-align: center;
+    margin-top: 90px;
+}
+
+
+/* paragraph */
+
+
+#aboutmepara{
+font-family: Arial, Helvetica, sans-serif;
+width: 72%;
+    text-align: justify;
+font-size: 24px;
+text-shadow: 1px;
+text-decoration: solid;
+padding-top: 12px;
+}
+
+/* ENDING LINE IMAGE */
+
+
+#endingline{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
